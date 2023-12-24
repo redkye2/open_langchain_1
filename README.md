@@ -13,7 +13,7 @@ https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
 
 
 # 결과 사진
-![분할 성공 사진1 ](open_langchain/assets/1.png)
+![ 결과 사진 ](assets/1.png)
 
 ## 실행 방법
 1. ipynb파일을 열고 모두 실행
