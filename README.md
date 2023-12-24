@@ -16,4 +16,5 @@ https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
 ![ 결과 사진 ](assets/1.png)
 
 ## 실행 방법
-1. ipynb파일을 열고 모두 실행
+1. 허깅페이스 토큰 설정
+2. ipynb파일 모두 실행
